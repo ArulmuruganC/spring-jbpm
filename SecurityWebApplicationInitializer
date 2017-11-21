@@ -1,0 +1,12 @@
+package com.sample.app.security.config;
+
+import org.springframework.security.web.context.AbstractSecurityWebApplicationInitializer;
+
+/**
+ * 
+ * @author Arul
+ *
+ */
+public class SecurityWebApplicationInitializer extends AbstractSecurityWebApplicationInitializer {
+
+}
